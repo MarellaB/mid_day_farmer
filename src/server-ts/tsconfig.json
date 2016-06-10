@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "system",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "removeComments": true,
+        "noImplicitAny": false,
+        "outDir": "../../server"
+    }
+}
